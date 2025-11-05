@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+psycopg2-binary
+python-multipart
+pydantic
+passlib[bcrypt]
+python-jose[cryptography]
+python-dotenv
+alembic
+openpyxl
+python-dateutil
+openai
+httpx
+apscheduler
+weasyprint
+pdfplumber
